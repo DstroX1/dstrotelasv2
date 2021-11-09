@@ -1,11 +1,11 @@
-# SocialSploit 
+# DstroTelasV2
      Installation
      pkg install -y git
-     git clone https://github.com/Cesar-Hack-Gray/SocialSploit
-     cd SocialSploit
+     git clone https://github.com/DstroX1/dstrotelasv2
+     cd dstrotelav2
      ls
      bash install.sh
-     ./Sploit
+     ./DstroTela
 # Installation 
 ##### https://youtu.be/z9FmwGOo3A8
 # Example

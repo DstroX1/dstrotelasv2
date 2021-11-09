@@ -4,9 +4,9 @@ G='\033[1;36m'
 WW='\033[32m'
 home=`pwd`
 guillon="-y"
-Cesar1="@CesarHackGray"
-link="https://t.me/CesarGray"
-Usage="./Sploit [disfruta]"
+Cesar1="@DstroTelasV1"
+link="https://discord.gg/dstrox"
+Usage="./DstroTela [disfruta]"
 Gray1="curl"
 Gray2="php"
 Gray3="openssh"
@@ -40,6 +40,6 @@ echo -e ${G}"[+]${W} Created by ${Cesar1}..."
 echo -e ${G}"[+]${W} Contactame ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
-chmod +x ${home}/Sploit
+chmod +x ${home}/DstroTela
 rm -rf ${home}/install.sh
 exit
